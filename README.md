@@ -16,4 +16,4 @@ Some stuff about memory model
 [Mathematizing C++ Concurrency: The Post-Rapperswil Model by Mark Batty Scott Owens Susmit Sarkar Peter Sewell Tjark Weber](https://ss265.host.cs.st-andrews.ac.uk/papers/n3132.pdf)
 
 ## Hardware MM
-[Memory Barriers: a Hardware View for Software Hackers](Paul E. McKenney)
+[Memory Barriers: a Hardware View for Software Hackers by Paul E. McKenney](http://www.puppetmastertrading.com/images/hwViewForSwHackers.pdf)
