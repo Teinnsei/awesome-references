@@ -6,7 +6,7 @@ Some stuff about memory model
 [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 
 ## Java MM
-[JSR 133 (Java Memory Model) FAQ by Jeremy Manson and Brian Goetz, February 2004](https://www.cs.umd.edu/users/pugh/java/memoryModel/jsr-133-faq.html#synchronization)
+[JSR 133 (Java Memory Model) FAQ by Jeremy Manson and Brian Goetz, February 2004](https://www.cs.umd.edu/users/pugh/java/memoryModel/jsr-133-faq.html)
 
 [Safe Publication and Safe Initialization in Java by Aleksey Shipilёv](https://shipilev.net/blog/2014/safe-public-construction/)
 
