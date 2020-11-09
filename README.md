@@ -15,6 +15,10 @@ Some stuff about memory model
 
 `EN` `Article` [Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 
+`EN` `Article` [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html)
+
+`EN` `Article` [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
+
 ### C++ MM
 `EN` `Article` [Specifying and Verifying Concurrent C Programs with TLA+](https://cedric.cnam.fr/fichiers/art_3439.pdf)
 
