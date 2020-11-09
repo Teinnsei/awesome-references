@@ -11,6 +11,10 @@ Some stuff about memory model
 
 `EN` `Article` [Safe Publication and Safe Initialization in Java by Aleksey Shipilёv](https://shipilev.net/blog/2014/safe-public-construction/)
 
+`EN` `Article` [Java Memory Model Pragmatics (transcript)](https://shipilev.net/blog/2014/jmm-pragmatics/)
+
+`EN` `Article` [Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
+
 ### C++ MM
 `EN` `Article` [Specifying and Verifying Concurrent C Programs with TLA+](https://cedric.cnam.fr/fichiers/art_3439.pdf)
 
