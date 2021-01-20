@@ -6,6 +6,10 @@
 
 `EN` `Video` [Mathematics for Computer Science (MIT)](https://mitocw.ups.edu.ec/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 
+`EN` `Article` [Category Theory for Programmers by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf)
+
+`EN` `Article` [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+
 ## Memory Model
 Some stuff about memory model
 
