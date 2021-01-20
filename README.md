@@ -11,7 +11,6 @@
 `EN` `Article` [Homotopy Type Theory](https://homotopytypetheory.org/book/)
 
 ## Memory Model
-Some stuff about memory model
 
 ### General
 `EN` `Article` [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
