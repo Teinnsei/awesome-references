@@ -28,6 +28,16 @@
 
 `EN` `Article` [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
 
+`EN` `Video` [Java Memory Model Examples: Good, Bad and Ugly by David Aspinall and Jaroslav Sˇevˇc ́ık](http://groups.inf.ed.ac.uk/request/jmmexamples.pdf)
+
+`RU` `Video` [VarHandles by Aleksey Shipilёv](https://www.youtube.com/watch?v=ESs0bZw8hsA)
+
+`RU` `Video` [Pragmatic of Java Memory Model by Aleksey Shipilёv](https://youtu.be/iB2N8aqwtxc)
+
+`EN` `Video` [Java Memory Model Unlearning Experience by Aleksey Shipilёv](https://www.youtube.com/watch?v=TK-7GCCDF_I)
+
+`EN` `Video` [Java 9 VarHandles Best practices, and why? by Tobi Ajila](https://www.youtube.com/watch?v=w2zaqhFczjY)
+
 ### C++ MM
 `EN` `Article` [Specifying and Verifying Concurrent C Programs with TLA+](https://cedric.cnam.fr/fichiers/art_3439.pdf)
 
