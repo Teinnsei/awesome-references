@@ -13,9 +13,15 @@
 ## Memory Model
 
 ### General
+
 `EN` `Article` [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 
+`EN` `Article` [Concurrency Freaks - A web site dedicated to Concurrent algorithms and patterns](http://concurrencyfreaks.blogspot.com)
+
+`EN` `Source` [Concurrency Freaks - Example code](https://github.com/pramalhe/ConcurrencyFreaks)    
+
 ### Java MM
+
 `EN` `Article` [JSR 133 (Java Memory Model) FAQ by Jeremy Manson and Brian Goetz, February 2004](https://www.cs.umd.edu/users/pugh/java/memoryModel/jsr-133-faq.html)
 
 `EN` `Article` [Safe Publication and Safe Initialization in Java by Aleksey Shipilёv](https://shipilev.net/blog/2014/safe-public-construction/)
@@ -45,5 +51,10 @@
 
 `RU` `Video` [Модель памяти C++ - Андрей Янковский](https://www.youtube.com/watch?v=SIZmLPtcZiE)
 
+`EN` `Article` [P2055R0: A Relaxed Guide to memory_order_relaxed by Hans Boehm, Paul E. McKenney](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2055r0.pdf)    
+
+`EN` `Video` [A Relaxed Guide to memory_order_relaxed - Paul E. McKenney & Hans Boehm - CppCon 2020](https://www.youtube.com/watch?v=cWkUqK71DZ0)
+
 ### Hardware MM
+
 `EN` `Article` [Memory Barriers: a Hardware View for Software Hackers by Paul E. McKenney](http://www.puppetmastertrading.com/images/hwViewForSwHackers.pdf)
