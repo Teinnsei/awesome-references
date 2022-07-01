@@ -14,6 +14,10 @@
 
 `Article` [Homotopy Type Theory](https://homotopytypetheory.org/book/)
 
+`Article` [Homotopy (type) theory by Andrej Bauer and Jaka Smrekar at the Faculty of mathematics and Physics](https://github.com/andrejbauer/homotopy-type-theory-course)
+
+`Video` [2013 Fall: 15-819 Advanced Topics in Programming Languages](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2207756bb0-b872-4a4a-95b1-b77ad206dab3%22)
+
 ## Memory Model
 
 ### General
@@ -56,6 +60,8 @@
 ### Hardware MM
 
 `Article` [Memory Barriers: a Hardware View for Software Hackers by Paul E. McKenney](http://www.puppetmastertrading.com/images/hwViewForSwHackers.pdf)
+
+`Video` [2013 Spring: 15-418: Parallel Computer Architecture and Programming](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22dec5d23e-fec9-4f51-b532-f7adcf31276c%22)
 
 ## Security
 
