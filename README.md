@@ -74,3 +74,13 @@
 `Article` [hacktricks](https://book.hacktricks.xyz/)
 
 `Article` [revshells](https://www.revshells.com)
+
+## Games
+
+`Article` [Vulkan Tutorial](https://vulkan-tutorial.com/)
+
+`Article` [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples)
+
+`Tool` [Vulkan SDK](https://www.lunarg.com/vulkan-sdk/)
+
+`Tool` [SDL2 - Simple DirectMedia Layer](https://www.libsdl.org/)
