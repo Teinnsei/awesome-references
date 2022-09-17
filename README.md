@@ -76,7 +76,9 @@
 `Article` [revshells](https://www.revshells.com)
 
 ## GUI/UI
+
 `Tool` [skia](https://skia.org/)
+
 `Tool` [qt](https://www.qt.io/)
 
 ## Games
