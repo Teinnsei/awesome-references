@@ -94,3 +94,7 @@
 `Tool` [SDL2 - Simple DirectMedia Layer](https://www.libsdl.org/)
 
 `Article` [Vulkan Cheat Sheet](https://www.khronos.org/files/vulkan11-reference-guide.pdf)
+
+## Language Comparison
+
+`Article` [CPP vs Rust - maulingmonkey](https://maulingmonkey.com/guide/cpp-vs-rust/)
