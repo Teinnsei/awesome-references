@@ -4,6 +4,13 @@
 
 `Article` [Psychosomatic, Lobotomy, Saw](http://psy-lob-saw.blogspot.com)
 
+## Languages
+
+### Rust
+
+`Article` [Procedural macros under the hood - part 1] (https://blog.jetbrains.com/rust/2022/03/18/procedural-macros-under-the-hood-part-i/)
+
+
 ## Mathematics
 
 `Article` [Mathematics for Computer Science (MIT)](https://mitocw.ups.edu.ec/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
