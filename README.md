@@ -8,7 +8,7 @@
 
 ### Rust
 
-`Article` [Procedural macros under the hood part 1] (https://blog.jetbrains.com/rust/2022/03/18/procedural-macros-under-the-hood-part-i/)
+`Article` [Procedural macros under the hood part 1](https://blog.jetbrains.com/rust/2022/03/18/procedural-macros-under-the-hood-part-i/)
 
 
 ## Mathematics
