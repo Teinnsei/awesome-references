@@ -13,6 +13,7 @@
 ### Language Comparison
 
 `Article` [CPP vs Rust - maulingmonkey](https://maulingmonkey.com/guide/cpp-vs-rust/)
+
 `Video` [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM)
 
 ## Mathematics
