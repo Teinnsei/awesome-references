@@ -1,8 +1,10 @@
 # Awesome references
 
-## Blog
+## Blogs
 
 `Article` [Psychosomatic, Lobotomy, Saw](http://psy-lob-saw.blogspot.com)
+
+`Article` [The Coded Message - Jimmy Hartzell - Rust/C++](https://www.thecodedmessage.com/)
 
 ## Languages
 
@@ -106,8 +108,3 @@
 `Tool` [SDL2 - Simple DirectMedia Layer](https://www.libsdl.org/)
 
 `Article` [Vulkan Cheat Sheet](https://www.khronos.org/files/vulkan11-reference-guide.pdf)
-
-
-## Blogs
-
-`Article` [The Coded Message - Jimmy Hartzell - Rust/C++](https://www.thecodedmessage.com/)
