@@ -89,6 +89,10 @@
 
 `Article` [revshells](https://www.revshells.com)
 
+`Tools` [talosintelligence - cisco](https://www.talosintelligence.com/software)
+
+`Article` [talosintelligence - cisco](https://www.talosintelligence.com)
+
 ## GUI/UI
 
 `Tool` [skia](https://skia.org/)
