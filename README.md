@@ -32,6 +32,8 @@
 
 `Video` [2013 Fall: 15-819 Advanced Topics in Programming Languages](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2207756bb0-b872-4a4a-95b1-b77ad206dab3%22)
 
+`Article` [Why Category Theory Matters ri.io](https://rs.io/why-category-theory-matters/)
+
 ## Memory Model
 
 ### General
