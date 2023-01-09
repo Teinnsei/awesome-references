@@ -114,3 +114,17 @@
 `Tool` [SDL2 - Simple DirectMedia Layer](https://www.libsdl.org/)
 
 `Article` [Vulkan Cheat Sheet](https://www.khronos.org/files/vulkan11-reference-guide.pdf)
+
+## Tools
+
+[powertoys](https://learn.microsoft.com/ru-ru/windows/powertoys/)
+
+[lunarvim](https://www.lunarvim.org/)
+
+[AstroNvim](https://github.com/LunarVim/LunarVim)
+
+[Warp](https://github.com/warpdotdev/Warp)
+
+[nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+
+[kitty](https://sw.kovidgoyal.net/kitty/)
