@@ -93,6 +93,8 @@
 
 `Tools` [talosintelligence - cisco](https://www.talosintelligence.com/software)
 
+`Tools` [BFG Repo-Cleaner - like git-filter-branch does, but faster](https://rtyley.github.io/bfg-repo-cleaner/)
+
 `Article` [talosintelligence - cisco](https://www.talosintelligence.com)
 
 ## GUI/UI
