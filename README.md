@@ -37,6 +37,7 @@
 ## Algorithm
 
 `Article` [Bit Twiddling Hacks - Sean Eron Anderson](https://graphics.stanford.edu/~seander/bithacks.html#)
+`Article` [Hackers Delight](https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/)
 
 ## Memory Model
 
