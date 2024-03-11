@@ -34,6 +34,10 @@
 
 `Article` [Why Category Theory Matters ri.io](https://rs.io/why-category-theory-matters/)
 
+## Algorithm
+
+`Article` [Bit Twiddling Hacks - Sean Eron Anderson](https://graphics.stanford.edu/~seander/bithacks.html#)
+
 ## Memory Model
 
 ### General
